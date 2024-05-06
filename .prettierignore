@@ -1,0 +1,9 @@
+# Folder
+node_modules
+dist
+.local
+
+# File
+*-lock.yaml
+**/*.svg
+**/*.sh
